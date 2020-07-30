@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class="text">Hello World</text>
 <image class="img" src="./timg.jpg"></image>
+
+<view>1.知识点1</view>
